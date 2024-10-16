@@ -1,0 +1,23 @@
+.Header{
+    display: flex;
+    align-items: center ;
+}
+
+.Header_left{
+    display: flex;
+    align-items: center;
+}
+
+.left_logo{
+    width: 20%;
+}
+
+.left_logo img{
+    width: 100%;
+}
+
+.left_home,
+.left_notification{
+    display: flex;
+    align-items: center;
+}
